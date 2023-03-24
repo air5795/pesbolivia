@@ -1003,7 +1003,7 @@ body.nav-active { overflow: hidden; }
   .cta .btn { min-width: max-content; }
 
   .cta .section-title {
-    max-width: 30ch;
+    max-width: 90ch;
     margin-block-end: 0;
   }
 
