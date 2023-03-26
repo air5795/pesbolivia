@@ -1,0 +1,108 @@
+.image{
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.caja{
+    padding: 20px;
+}
+
+
+  
+  .card {
+   
+    background-color: #ffffff;
+    border: 1px solid #dae1f5;
+    border-radius: 10px;
+  }
+  
+  .card .header-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 40px 50px;
+    background-color: #f7f8fc;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .card .header-card .license {
+    display: block;
+    color: #10182f;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 27px;
+  }
+  
+  .card .header-card h2 {
+    color: #10182f;
+    font-size: 46px;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  .card .header-card .duration {
+    display: block;
+    font-size: 20px;
+    line-height: 33px;
+    margin-bottom: 30px;
+  }
+  
+  .card .header-card .btn {
+    padding: 12px 36px;
+    color: #ffffff;
+    background-color: #10182f;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+  
+  .card .header-card .btn:hover {
+    background-color: #0a0f1e;
+  }
+  
+  .card .features {
+    padding: 5px;
+  }
+  
+  .card .features li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 1px;
+  }
+  
+  .card .features li:last-child {
+    margin-bottom: 0;
+  }
+  
+  .card .features li img {
+    width: 13px;
+    margin-right: 10px;
+  }
+  
+  .card .features li a {
+    color: #10182f;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+  }
+  
+  /* Let's write the media query */
+  @media (max-width: 576px) {
+    
+  
+    .card {
+      
+      margin: 10px;
+    }
+  
+    .card .features {
+      padding: 30px 50px 40px;
+    }
+  }
+  

@@ -8,6 +8,41 @@
 
 
 
+.hero-content h1{
+  font-size: 75px;
+  line-height: 160px;
+  margin-left: -10px;
+  color: transparent;
+  -webkit-text-stroke: 1px #fff;
+  background: url(../../images/back.png);
+  -webkit-background-clip: text;
+  background-position: 0 0;
+  animation: back 20s linear infinite;
+}
+
+@keyframes back {
+  100%{
+      background-position: 2000px 0;
+  }
+}
+
+
+.btn-wrapper a{
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin-right: 20px;
+  /*border:2px solid #fff;*/
+  border-radius: 5px;
+  border: 2px solid transparent;
+  background-color: rgba(255,255,255,0.1);
+  backdrop-filter: blur(30px);
+  background-clip: padding-box;
+
+  display: flex;
+  align-items:center ;
+}
+
 
 
 /*-----------------------------------*\
@@ -252,6 +287,7 @@ body.nav-active { overflow: hidden; }
 .grid-list {
   display: grid;
   gap: 25px;
+  padding: 0;
 }
 
 .w-100 { width: 100%; }
@@ -310,12 +346,12 @@ body.nav-active { overflow: hidden; }
 .navbar {
   position: fixed;
   top: 0;
-  left: -300px;
-  background-color: var(--raisin-black);
+  left: -225px;
+ 
   color: var(--white);
-  max-width: 300px;
+  
   width: 100%;
-  height: 100vh;
+  height: 100%;
   padding: 30px;
   padding-block-end: 40px;
   display: flex;
@@ -324,11 +360,12 @@ body.nav-active { overflow: hidden; }
   z-index: 2;
   visibility: hidden;
   transition: var(--transition-3);
+  backdrop-filter: blur(22px);
 }
 
 .navbar.active {
   visibility: visible;
-  transform: translateX(300px);
+  position: relative;
 }
 
 .navbar-top {
@@ -387,7 +424,7 @@ body.nav-active { overflow: hidden; }
 \*-----------------------------------*/
 
 .hero {
-  padding-block-start: calc(var(--section-padding) + 70px);
+  padding-block-start: calc(var(--section-padding) + 5px);
   text-align: center;
 }
 
@@ -678,7 +715,7 @@ body.nav-active { overflow: hidden; }
   #CTA
 \*-----------------------------------*/
 
-.cta { background-color: var(--charcoal); }
+.cta { background-color: #146c43; }
 
 .cta .container {
   padding-block: 100px 60px;
@@ -706,13 +743,16 @@ body.nav-active { overflow: hidden; }
 
 .footer {
   background-color: var(--charcoal);
-  padding-block: 60px 100px;
+ padding: 10px;
   color: var(--light-gray);
+  text-align: center;
 }
 
 .footer-brand .footer-text { margin-block: 20px; }
 
-.footer .social-list { color: var(--white); }
+.footer .social-list { 
+  color: var(--white); 
+}
 
 .footer-list-title {
   color: var(--white);
@@ -779,6 +819,8 @@ body.nav-active { overflow: hidden; }
     width: 100%;
     margin-inline: auto;
   }
+
+
 
 
 
@@ -953,7 +995,7 @@ body.nav-active { overflow: hidden; }
    */
 
   .hero {
-    padding-block-start: calc(var(--section-padding) + 50px);
+    padding-block-start: calc(var(--section-padding) + 390px);
     text-align: left;
   }
 
