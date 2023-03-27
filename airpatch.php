@@ -37,6 +37,7 @@
 
   <!-- 
     - preload images
+
   -->
 
 
@@ -156,6 +157,7 @@
         <div class="card col-md-3">
           <div class="header-card">
             <span class="license">AIRPATCH 2023</span>
+            <p>Fecha de Salida : 30 de Marzo </p>
              <h2>40 Bs</h2>
             <span class="duration">/año</span>
             <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="bi bi-bag-fill"></i> Comprar</a>
@@ -179,11 +181,14 @@
           </ul>
         </div>
 
+
     <div class=" card col-md-9">
+    
     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="assets/images/e.jpg" class="d-block w-100 image" alt="...">
+            <img src="assets/images/e.jpg" class="d-block w-100 image" >
           </div>
           
         </div>
@@ -197,7 +202,7 @@
         </button>
       </div>
       <div class="caja">
-      <h1> <strong> AIRPATCH 2023 </strong></h1>
+      
       <ul>
         <li><p> <i class="bi bi-check2-circle"></i> Al adquirir el parche tienes Acceso a actualizaciones durante todo el año</p></li>
         <li><p> <i class="bi bi-check2-circle"></i> Todo Colaborador o que haya aportado en algun trabajo al parche tendra Acesso Gratis al parche. (Comunicate)</p></li>

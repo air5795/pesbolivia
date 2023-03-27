@@ -6,6 +6,8 @@ date_default_timezone_set("America/La_Paz");
 
 $ip = $_SERVER['REMOTE_ADDR'];
 
+
+
 $sqlConsultar = $con->query("SELECT* FROM contador WHERE ip = '$ip' order by id desc");
 $contarConsultar = $sqlConsultar->num_rows;
 
@@ -14,9 +16,9 @@ if ($contarConsultar == 0) {
 }else {
   $row = $sqlConsultar->fetch_array();
   $fechaRegistro = $row['fecha'];
-  $fechaActual = date("Y-m-d H:i;s");
+  $fechaActual = date("Y-m-d H:i:s");
   $nuevaFecha = strtotime($fechaRegistro."+ 1 hour");
-  $nuevaFecha = date("Y-m-d H:i;s",$nuevaFecha);
+  $nuevaFecha = date("Y-m-d H:i:s",$nuevaFecha);
 
   if ($fechaActual>= $nuevaFecha) {
     $sqlInsertar = $con->query("INSERT INTO contador (ip,fecha) values ('$ip',now())");
