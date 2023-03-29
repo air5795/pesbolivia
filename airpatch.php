@@ -158,7 +158,7 @@
           <div class="header-card">
             <span class="license">AIRPATCH 2023</span>
             <p>Fecha de Salida : 30 de Marzo </p>
-             <h2>40 Bs</h2>
+             <h2>39 Bs</h2>
             <span class="duration">/año</span>
             <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="bi bi-bag-fill"></i> Comprar</a>
             </div>
@@ -178,6 +178,196 @@
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Balon Oficial Liga TIGO   </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Equipos clasicos DIVPRO  </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Seleccion Boliviana Actualizada  </p></a></li>
+
+
+              <hr>
+
+
+              <a href=""  style="background-color: aquamarine;padding: 5px;border:solid 1px white;" data-bs-toggle="modal" data-bs-target="#requisitos"> <i class="bi bi-folder2-open"></i> Leer Requisitos </p></a>
+              <a href=""  style="background-color: aquamarine;padding: 5px;border:solid 1px white;" data-bs-toggle="modal" data-bs-target="#instalacion"> <i class="bi bi-folder2-open"></i> Leer Instalacion </p></a>
+
+
+
+<!-- Modal REQUISITOS  -->
+<div class="modal fade" id="requisitos" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="modal-title fs-5" id="exampleModalLabel">REQUISITOS AIRPATCH 2023 PC</h2>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-6">
+          <p class="alert alert-success"> <strong> Importante ! </strong>  TENER INSTALADO EL VIDEOJUEGO PES 21 ORIGINAL O PIRATA </p>
+          
+          <p> <strong> Requisitos mínimos: </strong> <br>
+              <strong> Sistema operativo: </strong> Windows 8.1/10 - 64bit <br>
+              <strong> Procesador: </strong>  Intel Core i5-3470 / AMD FX 4350 <br>
+              <strong> Memoria: </strong>  8 GB de RAM <br>
+              <strong> Gráficos: </strong>  NVIDIA GTX 670 / AMD Radeon HD 7870 <br>
+              <strong> Red: </strong>  Conexión de banda ancha a Internet <br>
+              <strong> Almacenamiento:</strong>  40 GB de espacio disponible <br>
+          <strong> Requisitos recomendados:</strong> <br>
+              <strong> Sistema operativo: </strong> Windows 10 (64-bit) <br>
+              <strong> Procesador:</strong>  Intel Core i7-3770 / AMD FX 8350 <br>
+              <strong> Memoria:</strong>  8 GB de RAM <br>
+              <strong> Gráficos: </strong> NVIDIA GTX 760 / AMD Radeon R9 270X <br>
+              <strong> Almacenamiento:</strong>  11 GB de espacio disponible <br></p>
+          </div>
+          <div class="col-md-6">
+          <img src="assets/images/logopes.png" alt="" width="250px" height="250px">
+          <p>PARA PES ORIGINAL :   Tenerlo Actualizado hasta el DLC 7 <br> </p>
+          <p>PARA PES PIRATA :   Tener instalado hasta la version DLC7 y el crack CPY compatible para DLC7 </p> <br>
+
+                <div class="accordion" id="accordionPanelsStayOpenExample">
+                  <div class="accordion-item">
+                    <p class="accordion-header" >
+                      <button style="font-size: 15px;" class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        DESCARGA PES 21 PIRATA ISO
+                      </button>
+                    </p>
+                    <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse ">
+                      <div class="accordion-body row">
+
+                      <div class="col">
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte1</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte2</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte3</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte4</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte5</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte6</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte7</a>
+                      </div>
+                      <div class="col">
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte8</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte9</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte10</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte11</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte12</a>
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte13</a>
+                      </div>
+                          
+                          
+                      </div>
+
+                      
+                    </div>
+                  </div>
+
+
+
+
+
+
+
+
+                  <div class="accordion-item">
+                    <p class="accordion-header" >
+                      <button style="font-size: 15px;" class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        DESCARGA CRACK CPY PES 21 PIRATA
+                      </button>
+                    </p>
+                    <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
+                      <div class="accordion-body ">
+
+                      
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-descarga</a>
+
+                          
+                      </div>
+
+                      
+                    </div>
+                  </div>
+
+
+
+
+                  <div class="accordion-item">
+                    <p class="accordion-header" >
+                      <button style="font-size: 15px;" class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTRE" aria-expanded="true" aria-controls="panelsStayOpen-collapseTRE">
+                        DESCARGA TODOS LOS DLC (1,2,3,4,5,6,7)
+                      </button>
+                    </p>
+                    <div id="panelsStayOpen-collapseTRE" class="accordion-collapse collapse">
+                      <div class="accordion-body ">
+
+                      
+                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-descarga</a>
+
+                          
+                      </div>
+
+                      
+                    </div>
+                  </div>
+
+
+
+
+
+
+
+
+
+
+
+                  
+                </div>
+
+          
+          </div>
+        </div>
+        
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+<!-- Modal REQUISITOS  -->
+<div class="modal fade" id="instalacion" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
            
           </ul>
         </div>
@@ -208,7 +398,8 @@
         <li><p> <i class="bi bi-check2-circle"></i> Al adquirir el parche tienes Acceso a actualizaciones durante todo el año</p></li>
         <li><p> <i class="bi bi-check2-circle"></i> Todo Colaborador o que haya aportado en algun trabajo al parche tendra Acesso Gratis al parche. (Comunicate)</p></li>
         <li><P> <i class="bi bi-check2-circle"></i> El pago cubre espacio adquirido en la nube <i class="bi bi-google"></i> para que puedas descargarlo en cualquier momento , asi tambien el Hosting y Dominio de esta pagina web y unos Cafes mientras estamos meses editando , no queremos Ganar o lucrar.  </P></li>
-        <li><p> <strong> <i class="bi bi-check2-circle"></i> CREDITOS : @leigles , JesusFacemaker , Jhap10PESMAKER , Cristian Otrillas , Oscar </strong></p></li>
+        <li><p> <strong> <i class="bi bi-check2-circle"></i> CREDITOS : @leigles , JesusFacemaker , Jhap10PESMAKER , Cristian Otrillas , Oscar.</strong></p></li>
+        <li><a href="" style="color:red"><i class="bi bi-exclamation-triangle"></i> Copa Libertadores Pendiente hasta que empieze la copa se dara actualizacion </p></a></li>
       </ul>
       
       

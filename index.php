@@ -8,6 +8,7 @@ $ip = $_SERVER['REMOTE_ADDR'];
 
 
 
+
 $sqlConsultar = $con->query("SELECT* FROM contador WHERE ip = '$ip' order by id desc");
 $contarConsultar = $sqlConsultar->num_rows;
 

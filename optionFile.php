@@ -168,7 +168,51 @@
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Kits temporada 2023 DIVPRO </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Equipos clasicos DIVPRO  </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Seleccion Boliviana Actualizada  </p></a></li>
+              <li><a href=""><i class="bi bi-check-circle-fill"></i> Copa Libertadores de America  </p></a></li>
+              <li><a href=""><i class="bi bi-check-circle-fill"></i> Copa Sudamericana  </p></a></li>
+              <hr>
+
+
+              
+              <a href=""  style="background-color: aquamarine;padding: 5px;border:solid 1px white;" data-bs-toggle="modal" data-bs-target="#exampleModal"> <i class="bi bi-folder2-open"></i> Leer Instalacion </p></a>
            
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="modal-title fs-5" id="exampleModalLabel">INSTALACION OPTION FILE LIGA BOLIVIANA 2023</h2>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body" style="font-size: medium;">
+      <p>PASOS DE INSTALACION AIRPATCH OPTION FILE 2023 PS4/PS5</p>
+      <P>- DESPUES DE COMPRAR EL PARCHE SE LE MANDARA A SU CORREO EL OPTION FILE Y SIGA LOS SIGUIENTES PASOS: </P>
+<p>1.- DEJAR EL PES 21 LIMPIO <br />1.0. Primero verificamos que el pes 21 de ps4 este vac&iacute;o, sin ning&uacute;n otro parche instalado<br />1.1. Para eliminar cualquier parche, ya estando en el men&uacute; principal, nos dirigimos a la parte de editar.<br />1.2. Seguidamente nos vamos a la parte de importar/exportar.<br />1.3. Luego le damos a la opci&oacute;n de borrar im&aacute;genes.<br />1.4. Para mayor efectividad al borrar los datos, seleccionamos uno por uno tanto en kits de equipos como en las demas im&aacute;genes.<br />1.5. Una vez borrado todos los datos, nos dirigimos a la pantalla principal del ps4, presionando el bot&oacute;n .<br />1.6. Ya estando en la pantalla principal, cerramos el juego, presionando el bot&oacute;n options y le damos a cerrar aplicaci&oacute;n.<br />1.7. Luego nos dirigimos a la parte de configuraci&oacute;n, dentro de configuraci&oacute;n, al apartado de almacenamiento.<br />1.8. Dentro del almacenamiento, le damos en almacenamiento del sistema, ya dentro nos vamos a datos guardados.<br />1.9. Y buscamos la carpeta de efotball pes 21 season update.<br />1.10 ya dentro de la carpeta le damos al bot&oacute;n de options y por ultimo le damos a eliminar, seleccionamos las 2 carpetas DATOS DEL SISTEMA, DATOS DE EDICION.</p>
+<p>2. Una vez limpio el pes 21, entramos al juego, una vez que estemos en el men&uacute; principal nos dirigimos a la parte de editar.<br />3. Dentro de editar otra vez nos dirigimos a la parte de importar/exportar.<br />4. Una vez dentro de importar/exportar, ponemos el USB/PENDRIVE (el usb tiene que estar en formato fat 32) con el option file al ps4 , luego nos dirigimos a la parte de importar equipos.<br />5. Seleccionamos el usb, nos aparecer&aacute; todos los equipos a importar, con el bot&oacute;n CUADRADO seleccionamos todos los archivos ted.<br />6. Luego de seleccionar, le damos al bot&oacute;n de &ldquo;opciones detalladas&rdquo;, veremos 2 casillas (marcadas o desmarcadas) marcamos las 2 casillas y le damos a ok, esperamos la importaci&oacute;n de datos (tardara m&aacute;ximo 30 min).<br />7. Una vez importado los equipos, nos vamos otra vez a importar/exportar, dentro de importar/exportar le damos en importar campeonato.<br />8. Al igual que la importaci&oacute;n de los equipos le damos en el bot&oacute;n CUADRADO, seleccionamos todos los archivos ced, y le damos a opciones detalladas.<br />9. Dentro de opciones detalladas, marcamos las casillas que aparezcan.<br />10. Esperamos a que importe, luego ordenamos las ligas, las fotos las pueden ver dentro de la carpeta de airpatch option file 2023, la carpeta se llama ORDENAR LIGAS, y por ultimo a disfrutar del option file de airpatch!!!<br />11. (CUALQUIER DUDA, PEDIDO O CONSULTA A MI WHATSAPP, 73218966)</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
           </ul>
         </div>
 
@@ -178,8 +222,26 @@
     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
 
         <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="assets/images/e.jpg" class="d-block w-100 image" >
+          <div class="carousel-item active" data-bs-interval="5000">
+            <img src="assets/images/OPTIONFILE/11.jpeg" class="d-block w-100 image" >
+          </div>
+          <div class="carousel-item " data-bs-interval="5000">
+            <img src="assets/images/OPTIONFILE/2.jpeg" class="d-block w-100 image" >
+          </div>
+          <div class="carousel-item " data-bs-interval="5000">
+            <img src="assets/images/OPTIONFILE/9.jpeg" class="d-block w-100 image" >
+          </div>
+          <div class="carousel-item " data-bs-interval="5000">
+            <img src="assets/images/OPTIONFILE/4.jpeg" class="d-block w-100 image" >
+          </div>
+          <div class="carousel-item " data-bs-interval="5000">
+            <img src="assets/images/OPTIONFILE/12.jpeg" class="d-block w-100 image" >
+          </div>
+          <div class="carousel-item " data-bs-interval="5000">
+            <img src="assets/images/OPTIONFILE/6.jpeg" class="d-block w-100 image" >
+          </div>
+          <div class="carousel-item " data-bs-interval="5000">
+            <img src="assets/images/OPTIONFILE/14.jpeg" class="d-block w-100 image" >
           </div>
           
         </div>
@@ -266,7 +328,7 @@
           
         <hr>
 
-        <a href="" class="alert alert-warning text-center"> Si Realizas la compra por paypal el valor es de 7$ (paypal cobra comision)</a>
+        <a href="" class="alert alert-warning text-center"> Si Realizas la compra por paypal el valor es de 6$ (paypal cobra comision)</a>
 
         <div id="smart-button-container">
       <div style="text-align: center;">
@@ -278,16 +340,16 @@
     function initPayPalButton() {
       paypal.Buttons({
         style: {
-          shape: 'pill',
-          color: 'gold',
+          shape: 'rect',
+          color: 'blue',
           layout: 'vertical',
-          label: 'pay',
+          label: 'buynow',
           
         },
 
         createOrder: function(data, actions) {
           return actions.order.create({
-            purchase_units: [{"description":"PESBOLIVIA PATCH","amount":{"currency_code":"USD","value":7}}]
+            purchase_units: [{"description":"Option FIle Liga Boliviana PESBOLIVIA","amount":{"currency_code":"USD","value":6}}]
           });
         },
 
