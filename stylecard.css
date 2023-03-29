@@ -13,7 +13,8 @@
    
     background-color: #ffffff;
     border: 1px solid #dae1f5;
-    border-radius: 10px;
+    --bs-card-border-radius:none;
+    
   }
   
   .card .header-card {
@@ -24,6 +25,8 @@
     background-color: #f7f8fc;
     border-radius: 10px 10px 0 0;
   }
+
+ 
   
   .card .header-card .license {
     display: block;

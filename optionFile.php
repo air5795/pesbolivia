@@ -174,13 +174,13 @@
 
 
               
-              <a href=""  style="background-color: aquamarine;padding: 5px;border:solid 1px white;" data-bs-toggle="modal" data-bs-target="#exampleModal"> <i class="bi bi-folder2-open"></i> Leer Instalacion </p></a>
+              <a href=""  style="background-color: aquamarine;padding: 5px;border:solid 1px white;" data-bs-toggle="modal" data-bs-target="#exampleModal2"> <i class="bi bi-folder2-open"></i> Leer Instalacion </p></a>
            
 
 
 
 <!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-xl">
     <div class="modal-content">
       <div class="modal-header">
