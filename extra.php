@@ -204,7 +204,7 @@
                         <p class="card-text" style="margin-bottom: 0;"><i class="bi bi-check-circle-fill"></i> Estadio para Pes 21 con vista Exterior de SPORTING CRISTAL de Peru </p>
                         <p class="card-text" style="margin-bottom: 0;"><i class="bi bi-check-circle-fill"></i> Pasos de Instalacion  </p>
                         
-                        <a href="" style="color:blue"><i class="bi bi-box-arrow-right"></i> Ver mas Imagenes </a>
+                        <a href="" style="color:blue" data-bs-toggle="modal" data-bs-target="#staticBackdrop"><i class="bi bi-box-arrow-right"></i> Ver mas Imagenes </a>
                         <div class="d-flex justify-content-between align-items-center">
                         <small class="text-body-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> <strong>Fecha : </strong> 26 de Marzo 2023 </font></font></small>
                             <a href="" class="btn btn-secondary btn-sm" style="border-radius:0 ; padding:10px ;"> precio 15$</a>
@@ -213,6 +213,61 @@
                         </div>
                         
                         </div>
+
+                        
+
+                          <!-- Modal -->
+                          <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-xl">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h1 class="modal-title fs-5" id="staticBackdropLabel">Modal title</h1>
+                                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                        <div id="carouselExampleCaptions" class="carousel slide">
+                                        <div class="carousel-indicators">
+                                          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                        </div>
+                                        <div class="carousel-inner">
+                                          <div class="carousel-item active">
+                                            <img src="assets/images/e.jpg" class="d-block w-100" alt="...">
+                                            <div class="carousel-caption d-none d-md-block">
+                                              <h5>First slide label</h5>
+                                              <p>Some representative placeholder content for the first slide.</p>
+                                            </div>
+                                          </div>
+                                          <div class="carousel-item">
+                                            <img src="..." class="d-block w-100" alt="...">
+                                            <div class="carousel-caption d-none d-md-block">
+                                              <h5>Second slide label</h5>
+                                              <p>Some representative placeholder content for the second slide.</p>
+                                            </div>
+                                          </div>
+                                          <div class="carousel-item">
+                                            <img src="..." class="d-block w-100" alt="...">
+                                            <div class="carousel-caption d-none d-md-block">
+                                              <h5>Third slide label</h5>
+                                              <p>Some representative placeholder content for the third slide.</p>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                          <span class="visually-hidden">Previous</span>
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                          <span class="visually-hidden">Next</span>
+                                        </button>
+                                      </div>
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
 
 
     

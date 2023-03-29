@@ -166,6 +166,7 @@
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Liga Boliviana Temporada 2023  </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> DataBase Actualizada </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Kits temporada 2023 DIVPRO </p></a></li>
+              <li><a href=""><i class="bi bi-check-circle-fill"></i> Kits Arbitros DIVPRO </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Faces DIVPRO  </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Estadios DIVPRO </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Scoreboard Liga TIGO  </p></a></li>
