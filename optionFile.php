@@ -235,6 +235,12 @@
             <img src="assets/images/OPTIONFILE/4.jpeg" class="d-block w-100 image" >
           </div>
           <div class="carousel-item " data-bs-interval="5000">
+            <img src="assets/images/OPTIONFILE/8.jpeg" class="d-block w-100 image" >
+          </div>
+          <div class="carousel-item " data-bs-interval="5000">
+            <img src="assets/images/OPTIONFILE/5.jpeg" class="d-block w-100 image" >
+          </div>
+          <div class="carousel-item " data-bs-interval="5000">
             <img src="assets/images/OPTIONFILE/12.jpeg" class="d-block w-100 image" >
           </div>
           <div class="carousel-item " data-bs-interval="5000">
