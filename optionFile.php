@@ -334,6 +334,10 @@
               <img src="assets/images/ps4.jpeg" alt="" class="w-100">
           </div>
 
+          <div class="col-md-3">
+              <img src="assets/images/tigo.jpeg" alt="" class="w-100">
+          </div>
+
           
         <hr>
 
