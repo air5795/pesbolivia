@@ -158,6 +158,7 @@
           <div class="header-card">
             <span class="license">OPTION FILE 2023</span>
             <p>Fecha de Salida : 30 de Marzo </p>
+            <p>12:00 pm</p>
              <h2>29 Bs</h2>
             <span class="duration">/año</span>
             <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="bi bi-bag-fill"></i> Comprar</a>
@@ -323,12 +324,12 @@
             <p>Numero de Cuenta :  <strong> 6500462165 </strong></p>
             <p>Nombre : Alejandro Iglesias Raldes</p>
 
-            <a href="assets/images/BNB-40.jpg" class="btn btn-success" download="QR.jpg">Descargar Imagen QR </a>
+            <a href="assets/images/ps4.jpeg" class="btn btn-success" download="QR.jpg">Descargar Imagen QR </a>
             </div>
           </div>
           
           <div class="col-md-3">
-              <img src="assets/images/BNB-40.jpg" alt="" class="w-100">
+              <img src="assets/images/ps4.jpeg" alt="" class="w-100">
           </div>
 
           

@@ -1,5 +1,5 @@
 <?php
-$Userver = "localhost:3316";
+$Userver = "localhost";
 $Uuser = "root";
 $Upass = "";
 $Udb = "visitas";

@@ -157,7 +157,8 @@
         <div class="card col-md-3">
           <div class="header-card">
             <span class="license">AIRPATCH 2023</span>
-            <p>Fecha de Salida : 30 de Marzo </p>
+            <p>Fecha de Salida : 30 de Marzo  </p>
+            <p>12:00 pm / medio dia</p>
              <h2>39 Bs</h2>
             <span class="duration">/año</span>
             <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="bi bi-bag-fill"></i> Comprar</a>
@@ -175,6 +176,7 @@
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Trofeo LIGA TIGO   </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Intro LIGA TIGO   </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Menu Renovado   </p></a></li>
+              <li><a href=""><i class="bi bi-check-circle-fill"></i> Salas de Prensa de todos los equipos   </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Balon Oficial Liga TIGO   </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Equipos clasicos DIVPRO  </p></a></li>
               <li><a href=""><i class="bi bi-check-circle-fill"></i> Seleccion Boliviana Actualizada  </p></a></li>
@@ -381,6 +383,38 @@
               <div class="carousel-item active">
                 <img src="assets/images/e.jpg" class="d-block w-100 image" >
               </div>
+
+            
+
+              
+
+              <div class="carousel-item ">
+                <img src="assets/images/AIR/4.jpg" class="d-block w-100 image" >
+              </div>
+
+              <div class="carousel-item ">
+                <img src="assets/images/AIR/5.jpg" class="d-block w-100 image" >
+              </div>
+
+              <div class="carousel-item ">
+                <img src="assets/images/AIR/6.jpg" class="d-block w-100 image" >
+              </div>
+
+              <div class="carousel-item ">
+                <img src="assets/images/AIR/7.jpg" class="d-block w-100 image" >
+              </div>
+
+              <div class="carousel-item ">
+                <img src="assets/images/AIR/8.jpg" class="d-block w-100 image" >
+              </div>
+
+              <div class="carousel-item ">
+                <img src="assets/images/AIR/9.jpg" class="d-block w-100 image" >
+              </div>
+
+              <div class="carousel-item ">
+                <img src="assets/images/AIR/10.jpg" class="d-block w-100 image" >
+              </div>
               
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
@@ -403,6 +437,7 @@
         <li><P> <i class="bi bi-check2-circle"></i> El pago cubre espacio adquirido en la nube <i class="bi bi-google"></i> para que puedas descargarlo en cualquier momento , asi tambien el Hosting y Dominio de esta pagina web y unos Cafes mientras estamos meses editando , no queremos Ganar o lucrar.  </P></li>
         <li><p> <strong> <i class="bi bi-check2-circle"></i> CREDITOS : @leigles , JesusFacemaker , Jhap10PESMAKER , Cristian Otrillas , Oscar.</strong></p></li>
         <li><a href="" style="color:red"><i class="bi bi-exclamation-triangle"></i> Copa Libertadores Pendiente hasta que empieze la copa se dara actualizacion </p></a></li>
+        <li><a href="" style="color:red"><i class="bi bi-exclamation-triangle"></i> Equipos Clasicos se terminara en la siguiente Actualizacion </p></a></li>
       </ul>
       
       
@@ -416,19 +451,72 @@
 
     <div class="card col-md-12">
       
-        <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleAutoplaying2" class="carousel slide" data-bs-ride="carousel">
 
         <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="assets/images/e.jpg" class="d-block w-100 image" >
+         
+
+          <div class="carousel-item active ">
+            <img src="assets/images/AIR/b.jpg" class="d-block w-100 image" >
           </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/12.jpg" class="d-block w-100 image" >
+          </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/13.jpg" class="d-block w-100 image" >
+          </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/14.jpg" class="d-block w-100 image" >
+          </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/15.jpg" class="d-block w-100 image" >
+          </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/16.jpg" class="d-block w-100 image" >
+          </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/17.jpg" class="d-block w-100 image" >
+          </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/18.jpg" class="d-block w-100 image" >
+          </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/19.jpg" class="d-block w-100 image" >
+          </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/a.jpg" class="d-block w-100 image" >
+          </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/c.jpg" class="d-block w-100 image" >
+          </div>
+
+          <div class="carousel-item  ">
+            <img src="assets/images/AIR/11.jpg" class="d-block w-100 image" >
+          </div>
+
+
+         
+
+          
+
+          
           
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying2" data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Previous</span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying2" data-bs-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Next</span>
         </button>
@@ -438,19 +526,63 @@
 
     <div class="card col-md-12">
       
-      <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+      <div id="carouselExampleAutoplaying3" class="carousel slide" data-bs-ride="carousel">
 
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="assets/images/e.jpg" class="d-block w-100 image" >
+          <img src="assets/images/AIR/20.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/21.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/22.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/23.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/24.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/25.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/26.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/27.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/28.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/29.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/30.jpg" class="d-block w-100 image" >
+        </div>
+
+        <div class="carousel-item ">
+          <img src="assets/images/AIR/31.jpg" class="d-block w-100 image" >
         </div>
         
       </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying3" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
       </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying3" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
       </button>
@@ -502,12 +634,12 @@
             <p>Numero de Cuenta :  <strong> 6500462165 </strong></p>
             <p>Nombre : Alejandro Iglesias Raldes</p>
 
-            <a href="assets/images/BNB-40.jpg" class="btn btn-success" download="QR.jpg">Descargar Imagen QR </a>
+            <a href="assets/images/pc.jpeg" class="btn btn-success" download="QR.jpg">Descargar Imagen QR </a>
             </div>
           </div>
           
           <div class="col-md-3">
-              <img src="assets/images/BNB-40.jpg" alt="" class="w-100">
+              <img src="assets/images/pc.jpeg" alt="" class="w-100">
           </div>
 
           
