@@ -1,0 +1,38 @@
+
+PES BOLIVIA - AIRPATCH 2023 LIGA BOLIVIANA  
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+AVISO : LOS EQUIPOS CLASICOS NOS FALTA ACABAR LO HAREMOS EN LA SIGUIENTE ACTUALIZACIO HASTA MIENTRAS PPUEDEN ESTAR GOZANDO CON EL DEMAS CONTENIDO
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+AVISO 2 : EL PARCHE ES COMPATIBLE CON VIRTUARED POR TANTO PUEDEN INSTALAR SU STADIUM SERVER PARA MAS ESTADIOS , 
+	  SI NO SABES COMO COLOCAR MAS ESTADIOS DE OTRAS LIGAS ESCRIBENOS TE ENSEÑAREMOS 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+INSTRUCCIONES PARA INSTALAR PES 21 AIRPATCH EN PES ORIGINAL 
+
+1.- TENER TU PES LIMPIO (DESINSTALAR CULAQUIER PARCHE QUE TENGAS)
+2.- EN EL DRIVE EXISTE 19 ARCHIVOS LLAMADOS  Airpatch2023.parteX 
+	- Ejecutar el archivo Airpatch2023.parte1.exe 
+	- descomprimir el archivo en tu ruta donde tienes instalado el pes 21
+ 
+3.- EN EL DRIVE EXISTE UN ARCHIVO LLAMADO EDIT00000000 ESE ARCHIVO COPIARLO A LA SIGUIENTE RUTA (EJEMPLO)
+	- C:\Users\PC-CASA\Documents\KONAMI\eFootball PES 2021 SEASON UPDATE\292733975847239680\save
+
+4.- EJECUTAR EL SIDER Y DISFRUTAR EL JUEGO !!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+INSTRUCCIONES PARA INSTALAR PES 21 AIRPATCH EN PES PIRATA
+
+1.- TENER EL VIDEO JUEGO PIRATA PES 21 INSTALADO (LO ENCUENTRAS EN NUESTRA PAGINA WEB) 
+2.- TENER TODOS LOS DLC HASTA EL 7 (LO ENCUENTRAS EN NUESTRA PAGINA WEB)
+3.- CRAKEAR EL PES 21 CON CPY CRACK  (LO ENCUENTRAS EN NUESTRA PAGINA WEB)
+4.- TENER TU PES LIMPIO (DESINSTALAR CULAQUIER PARCHE QUE TENGAS)
+5.- EN EL DRIVE EXISTE 19 ARCHIVOS LLAMADOS  Airpatch2023.parteX 
+	- Ejecutar el archivo Airpatch2023.parte1.exe 
+	- descomprimir el archivo en tu ruta donde tienes instalado el pes 21
+ 
+6.- EN EL DRIVE EXISTE UN ARCHIVO LLAMADO EDIT00000000 ESE ARCHIVO COPIARLO A LA SIGUIENTE RUTA (EJEMPLO)
+	- C:\Users\PC-CASA\Documents\KONAMI\eFootball PES 2021 SEASON UPDATE\292733975847239680\save
+
+7.- EJECUTAR EL SIDER Y DISFRUTAR EL JUEGO !!
