@@ -185,7 +185,7 @@
               <hr>
 
 
-              <a href=""  style="background-color: aquamarine;padding: 5px;border:solid 1px white;" data-bs-toggle="modal" data-bs-target="#requisitos"> <i class="bi bi-folder2-open"></i> Leer Requisitos </p></a>
+              <a href=""  style="background-color: aquamarine;padding: 5px;border:solid 1px white;" data-bs-toggle="modal" data-bs-target="#requisitos"> <i class="bi bi-folder2-open"></i> Si no tienes el juego <strong> Descarga aqui </strong> </p></a>
               <a href=""  style="background-color: aquamarine;padding: 5px;border:solid 1px white;" data-bs-toggle="modal" data-bs-target="#instalacion"> <i class="bi bi-folder2-open"></i> Leer Instalacion </p></a>
 
 
@@ -232,25 +232,9 @@
                     <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse ">
                       <div class="accordion-body row">
 
-                      <div class="col">
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte1</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte2</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte3</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte4</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte5</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte6</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte7</a>
-                      </div>
-                      <div class="col">
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte8</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte9</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte10</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte11</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte12</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace-parte13</a>
-                      </div>
-                          
-                          
+                      
+                          <a href="https://ouo.io/GF1HH3e" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> enlace_juego_ISO</a>
+
                       </div>
 
                       
