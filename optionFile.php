@@ -323,6 +323,8 @@
             <p>Banco :  <strong> Banco Nacional de Bolivia (BNB) </strong></p>
             <p>Numero de Cuenta :  <strong> 6500462165 </strong></p>
             <p>Nombre : Alejandro Iglesias Raldes</p>
+            <p>Cuenta : Cuenta Ahorro</p>
+            <p>CI : 10478330</p>
 
             <a href="assets/images/ps4.jpeg" class="btn btn-success" download="QR.jpg">Descargar Imagen QR </a>
             </div>
