@@ -317,8 +317,9 @@
           <hr>
 
 
-        <h2 class="alert alert-success ">TRANSFERENCIA CUENTA DE BANCO o Pago QR </h2>
-          <div class="col-md-9 " style="text-align:right ;">
+        
+          <div class="col-md-6 " >
+          <h5 class="alert alert-success ">TRANSFERENCIA CUENTA DE BANCO o Pago QR </h5>
             <div class="container">
             <p>Banco :  <strong> Banco Nacional de Bolivia (BNB) </strong></p>
             <p>Numero de Cuenta :  <strong> 6500462165 </strong></p>
@@ -326,17 +327,21 @@
             <p>Cuenta : Cuenta Ahorro</p>
             <p>CI : 10478330</p>
 
-            <a href="assets/images/ps4.jpeg" class="btn btn-success" download="QR.jpg">Descargar Imagen QR </a>
+            
             </div>
-          </div>
-          
-          <div class="col-md-3">
-              <img src="assets/images/ps4.jpeg" alt="" class="w-100">
           </div>
 
           <div class="col-md-3">
-              <img src="assets/images/tigo.jpeg" alt="" class="w-100">
+          <img src="assets/images/bnb.png" alt="" class="w-100">
+          <a href="assets/images/ps4.jpeg"  class="btn btn-success" download="QR.jpg" style="padding:5px;font-size:14px;">Descargar Imagen QR BNB </a>
           </div>
+
+          <div class="col-md-3">
+            <img src="assets/images/tigomoney.png" alt="" class="w-100">
+          <a href="assets/images/tigo.jpeg"  class="btn btn-warning" download="QR.jpg" style="padding:5px;font-size:14px;">Descargar Imagen QR TIGO MONEY </a>
+          </div>
+          
+        
 
           
         <hr>
