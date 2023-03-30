@@ -649,6 +649,7 @@
           <div class="col-md-3">
             <img src="assets/images/tigomoney.png" alt="" class="w-100">
           <a href="assets/images/tigo.jpeg"  class="btn btn-warning" download="QR.jpg" style="padding:5px;font-size:14px;">Descargar Imagen QR TIGO MONEY </a>
+          <p class="alert alert-warning" style="font-size:13px" >Agregar 2bs mas por comision TIGOMONEY</p>
           </div>
 
           
