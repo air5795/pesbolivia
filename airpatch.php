@@ -627,8 +627,9 @@
           <hr>
 
 
-        <h2 class="alert alert-success ">TRANSFERENCIA CUENTA DE BANCO o Pago QR </h2>
-          <div class="col-md-6 " style="text-align:right ;">
+        
+          <div class="col-md-6 " >
+          <h5 class="alert alert-success ">TRANSFERENCIA CUENTA DE BANCO o Pago QR </h5>
             <div class="container">
             <p>Banco :  <strong> Banco Nacional de Bolivia (BNB) </strong></p>
             <p>Numero de Cuenta :  <strong> 6500462165 </strong></p>
@@ -640,7 +641,7 @@
             </div>
           </div>
           
-          <<div class="col-md-3">
+          <div class="col-md-3">
           <img src="assets/images/bnb.png" alt="" class="w-100">
           <a href="assets/images/ps4.jpeg"  class="btn btn-success" download="QR.jpg" style="padding:5px;font-size:14px;">Descargar Imagen QR BNB </a>
           </div>
