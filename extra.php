@@ -169,7 +169,7 @@
                 <div class="col">
                     
                 <div class="card shadow-sm">
-                    <img src="assets/images/faces.jpg" alt="">
+                    <img src="assets/images/faces.jpg" alt="" >
                     <div class="card-body">
                         <h3>PACK DE CREACION DE FACES</h3>
                     <p class="card-text" style="margin-bottom: 0;">El pack incluye: </p>
