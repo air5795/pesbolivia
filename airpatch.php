@@ -627,7 +627,7 @@
           
           <div class="col-md-3">
           <img src="assets/images/bnb.png" alt="" class="w-100">
-          <a href="assets/images/ps4.jpeg"  class="btn btn-success" download="QR.jpg" style="padding:5px;font-size:14px;">Descargar Imagen QR BNB </a>
+          <a href="assets/images/pc.jpeg"  class="btn btn-success" download="QR.jpg" style="padding:5px;font-size:14px;">Descargar Imagen QR BNB </a>
           </div>
 
           <div class="col-md-3">
