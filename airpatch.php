@@ -330,7 +330,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        ...
+          
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -611,8 +611,8 @@
 
       <div class="modal-body row">
           <h4 class="alert alert-warning"><i class="bi bi-exclamation-triangle-fill"></i><strong> Importante</strong>  Instrucciones para comprar</h4>
-          <p>- Elegir el metodo de pago (Transferencia, QR , Paypal) </p>
-          <p>- Importante Mandar comprobante de pago y su correo personal (gmail) a nuestro correo <strong>(pesbolivia2023@gmail.com) y tambien al numero +591 79441119 (a los dos )</strong>  </p>
+          <p>- Elegir el metodo de pago (Transferencia, QR , Paypal , Tigo Money) </p>
+          <p>- Importante Mandar comprobante de pago y su correo personal (gmail) a nuestro correo <strong>(pesbolivia2023@gmail.com) y tambien su numero de Whattsap para Agregarle al Grupo VIP </strong>  </p>
           <p>- PesBolivia procedera a la verificacion y en un tiempo no mayor a 30 min mandara a su correo el parche y pasos de instalacion y se le agregara al grupo  VIP de PESBOLIVIA </p>
           <hr>
 
