@@ -280,13 +280,8 @@
                       <div class="accordion-body ">
 
                       
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> DLC-1</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> DLC-2</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> DLC-3</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> DLC-4</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> DLC-5</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> DLC-6</a>
-                          <a href="" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> DLC-7</a>
+                          <a href="https://ouo.io/Dl5eUa" style="text-decoration:underline;color:blue"> <i class="bi bi-box-arrow-right"></i> Enlace-todosLosDLC</a>
+
 
                           
                       </div>
