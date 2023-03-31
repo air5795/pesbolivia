@@ -311,8 +311,8 @@
 
       <div class="modal-body row">
           <h4 class="alert alert-warning"><i class="bi bi-exclamation-triangle-fill"></i><strong> Importante</strong>  Instrucciones para comprar</h4>
-          <p>- Elegir el metodo de pago (Transferencia, QR , Paypal) </p>
-          <p>- Mandar comprobante de pago y su correo personal (gmail) a nuestro correo <strong>(pesbolivia2023@gmail.com)</strong>  </p>
+          <p>- Elegir el metodo de pago (Transferencia, QR , Paypal y Tigo Money) </p>
+          <p>- Mandar comprobante de pago y su correo personal (gmail) a nuestro correo <strong>(pesbolivia2023@gmail.com) y tambien su numero de Whattsap para Agregarle al Grupo VIP/strong>  </p>
           <p>- PesBolivia procedera a la verificacion y en un tiempo no mayor a 30 min mandara a su correo el parche y pasos de instalacion </p>
           <hr>
 
