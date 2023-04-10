@@ -312,13 +312,13 @@
       <div class="modal-body row">
           <h4 class="alert alert-warning"><i class="bi bi-exclamation-triangle-fill"></i><strong> Importante</strong>  Instrucciones para comprar</h4>
           <p>- Elegir el metodo de pago (Transferencia, QR , Paypal y Tigo Money) </p>
-          <p>- Mandar comprobante de pago y su correo personal (gmail) a nuestro correo <strong>(pesbolivia2023@gmail.com) y tambien su numero de Whattsap para Agregarle al Grupo VIP/strong>  </p>
+          <p>- Mandar comprobante de pago y su correo personal (gmail) a nuestro correo <strong>(pesbolivia2023@gmail.com) y tambien su numero de Whattsap para Agregarle al Grupo VIP</strong>  </p>
           <p>- PesBolivia procedera a la verificacion y en un tiempo no mayor a 30 min mandara a su correo el parche y pasos de instalacion </p>
           <hr>
 
 
         
-          <div class="col-md-6 " >
+          <div class="col-md-6">
           <h5 class="alert alert-success ">TRANSFERENCIA CUENTA DE BANCO o Pago QR </h5>
             <div class="container">
             <p>Banco :  <strong> Banco Nacional de Bolivia (BNB) </strong></p>
@@ -341,10 +341,7 @@
           <a href="assets/images/tigo.jpeg"  class="btn btn-warning" download="QR.jpg" style="padding:5px;font-size:14px;">Descargar Imagen QR TIGO MONEY </a>
           <p class="alert alert-warning" style="font-size:13px" >Agregar 2bs mas por comision TIGOMONEY</p>
           </div>
-          
-        
 
-          
         <hr>
 
         <a href="" class="alert alert-warning text-center"> Si Realizas la compra por paypal el valor es de 6$ (paypal cobra comision)</a>
