@@ -303,7 +303,7 @@
                         <p class="card-text" style="margin-bottom: 0;">El pack incluye: </p>
                         <p class="card-text" style="margin-bottom: 0;"><i class="bi bi-check-circle-fill"></i> Estadio para Pes 21 con vista Exterior  </p>
                         
-                        <a href="https://youtu.be/McnwF7tPhnw" style="color:red" ><i class="bi bi-box-arrow-right"></i> Ver Video </a>
+                        <a href="https://youtu.be/mmIfcPKTg4U" style="color:red" ><i class="bi bi-box-arrow-right"></i> Ver Video </a>
                         
                         <a href="" style="color:blue" data-bs-toggle="modal" data-bs-target="#staticBackdrop"><i class="bi bi-box-arrow-right"></i> Ver mas Imagenes </a>
                         <div class="d-flex justify-content-between align-items-center">
