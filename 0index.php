@@ -5,11 +5,11 @@ date_default_timezone_set("America/Mexico_City");
 
 $ip = $_SERVER['REMOTE_ADDR'];
 
-$sqlConsultar = $con->query("SELECT * FROM contador WHERE ip = '$ip' ORDER BY id desc");
+$sqlConsultar = $conexion->query("SELECT * FROM contador WHERE ip = '$ip' ORDER BY id desc");
 $contarConsultar = $sqlConsultar->num_rows;
 
 if($contarConsultar == 0){
-    $sqlInsertar = $con->query("INSERT INTO contador (ip,fecha) VALUES ('$ip',now())");
+    $sqlInsertar = $conexion->query("INSERT INTO contador (ip,fecha) VALUES ('$ip',now())");
 }else{
     $row = $sqlConsultar->fetch_array();
     $fechaRegistro = $row['fecha'];
@@ -18,9 +18,9 @@ if($contarConsultar == 0){
     $nuevaFecha = date("d-m-Y H:i:s",$nuevaFecha);
     
     if($fechaActual >= $nuevaFecha){
-        $sqlInsertar = $con->query("INSERT INTO contador (ip,fecha) VALUES ('$ip', now())");
+        $sqlInsertar = $conexion->query("INSERT INTO contador (ip,fecha) VALUES ('$ip', now())");
     }
-$visitas = $con->query("SELECT * FROM contador");
+$visitas = $conexion->query("SELECT * FROM contador");
 $contar = $visitas->num_rows;
 
 
@@ -157,6 +157,7 @@ $contar = $visitas->num_rows;
 
       <a href="https://api.whatsapp.com/send?phone=+59179441119&text=Hola%20Pes%20Bolivia%20,%20Quiero%20hacerte%20un%20pedido%20...." class="btn btn-outline"><i class="bi bi-telephone-forward-fill"></i> Solicitar Pedidos</a>
       <a href="#" class="btn btn-secondary"><i class="bi bi-people-fill"></i> N° Visitas : <?php echo $contar; ?></a>
+      <a href="#" class="btn btn-success"><i class="bi bi-people-fill"></i> Iniciar Sesion </a>
 
       <button class="nav-open-btn" aria-label="open menu" data-nav-toggler>
         <ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
@@ -178,7 +179,7 @@ $contar = $visitas->num_rows;
         - #HERO
       -->
 
-      <section class="section hero has-bg-image" aria-label="home" style="background-image: url('./assets/images/hero-bg2.png')">
+      <section class="section hero has-bg-image w-100" aria-label="home" style="background-image: url('./assets/images/hero-bg3.png')">
         <div class="container">
 
           <div class="hero-content">
@@ -186,14 +187,14 @@ $contar = $visitas->num_rows;
             <h1 class="h1 hero-title">PES BOLIVIA</h1>
 
             <p class="hero-text">
-              Parche liga Boliviana 2023 , comunidad de PES en Bolivia.
+              Parche liga Boliviana 2024 , comunidad de PES en Bolivia.
             </p>
 
             <div class="btn-wrapper">
 
-              <a href="airpatch.php" class="btn btn-outline"> AIRPATCH 2023 PC </a>
+              <a href="airpatch.php" class="btn btn-outline"> AIRPATCH 2024 PC </a>
 
-              <a href="optionFile.php" class="btn btn-outline"> OPTION FILE 2023 PS4/PS5 </a>
+              <a href="optionFile.php" class="btn btn-outline"> OPTION FILE 2024 PS4/PS5 </a>
 
 
             </div>
@@ -256,11 +257,11 @@ $contar = $visitas->num_rows;
                 <div class="card-content">
 
                   <h3 class="h3">
-                    <a href="#" class="card-title"> AirPatch 2023 (PC) <i class="bi bi-laptop"></i> </a>
+                    <a href="#" class="card-title"> AirPatch 2024 (PC) <i class="bi bi-laptop"></i> </a>
                   </h3>
 
                   <p class="card-text">
-                    Parche de la liga Boliviana Temporada 2023 PES 21 para Computadora. 
+                    Parche de la liga Boliviana Temporada 2024 PES 21 para Computadora. 
                   </p>
 
                   <ul class="card-meta-list">
@@ -274,7 +275,7 @@ $contar = $visitas->num_rows;
                     <li class="card-meta-item">
                       <ion-icon name="document-text-outline" aria-hidden="true"></ion-icon>
 
-                      <span class="meta-text">2023</span>
+                      <span class="meta-text">2024</span>
                     </li>
 
                   </ul>
@@ -295,11 +296,11 @@ $contar = $visitas->num_rows;
                 <div class="card-content">
 
                   <h3 class="h3">
-                    <a href="#" class="card-title">Option File 2023 (PS4/PS5) <i class="bi bi-controller"></i> </a>
+                    <a href="#" class="card-title">Option File 2024 (PS4/PS5) <i class="bi bi-controller"></i> </a>
                   </h3>
 
                   <p class="card-text">
-                   Option File para pes 21 de la Liga profesional Boliviana temporada 2023.
+                   Option File para pes 21 de la Liga profesional Boliviana temporada 2024.
                   </p>
 
                   <ul class="card-meta-list">
@@ -313,7 +314,7 @@ $contar = $visitas->num_rows;
                     <li class="card-meta-item">
                       <ion-icon name="document-text-outline" aria-hidden="true"></ion-icon>
 
-                      <span class="meta-text">2023</span>
+                      <span class="meta-text">2024</span>
                     </li>
 
                   </ul>
@@ -352,7 +353,7 @@ $contar = $visitas->num_rows;
                     <li class="card-meta-item">
                       <ion-icon name="document-text-outline" aria-hidden="true"></ion-icon>
 
-                      <span class="meta-text">2023</span>
+                      <span class="meta-text">2024</span>
                     </li>
 
                   </ul>
@@ -403,7 +404,7 @@ $contar = $visitas->num_rows;
 
   <footer class="footer">
     <p >
-      &copy; 2023 PESBOLIVIA.  Todos los Derechos Reservados.
+      &copy; 2024 PESBOLIVIA.  Todos los Derechos Reservados.
     </p>
 
     <p>@leigles , je$u$s , j0s3</p>
