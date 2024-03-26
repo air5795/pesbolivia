@@ -1,5 +1,4 @@
 <?php
-
 if ($_SERVER['SERVER_NAME'] == 'localhost' || $_SERVER['SERVER_NAME'] == '127.0.0.1' || $_SERVER['SERVER_NAME'] == '192.168.0.37') {
     $entorno = 'local';
 } else {
@@ -20,7 +19,7 @@ if ($entorno == 'local') {
 
 $conexion = @mysqli_connect($db_host,$db_user,$db_password,$db_name);
 if (!$conexion) {
-    echo "Error en la conexion";
+    echo "Error en la conexion :)";
 }
 
 
